@@ -61,6 +61,16 @@ div.photos{
   /* width: 500px; */
 }
 
+div.fb-like{
+  text-align: center;
+  padding-left: 320px;
+}
+
+div.barcode{
+  text-align: center;
+
+}
+
 /* {box-sizing: border-box;} */
 
 /* Button used to open the contact form - fixed at the bottom of the page */
