@@ -1,1 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10590213&assignment_repo_type=AssignmentRepo)
+ID: 318734399
+# My Grandma Website
+This is my first work in this course, and my first experience with html, css and js.
+I built an html website that presents my grandmother - her life, hobbies and family.
+
+- I used html which includes use of java script, and used external css file.
+enjoy!
